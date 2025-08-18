@@ -1,16 +1,19 @@
 ## Hi there 👋
+I am a Video Gamer and an Average Stellar Blade Photography
 
-<!--
-**Mer-curius/Mer-curius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on beating many video games, such as Stellar Blade for the 6th time, No Man's Sky for the first time, even if there is no end, and some other games I do not know. I am also working on getting my Bachelor's Degree but I am already questioning, is my Future Job really worth it, at this state of the World.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning many things to fit the requierments for my Degree, along with C++ when I really want to learn the mysteries of Unreal Engine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on many projects I do not know
+
+- 🤔 I’m looking for help with C++ Programming
+
+- 💬 Ask me about the Lore of Stellar Blade and the magnificent story
+
+- 📫 How to reach me: Gmail
+
+- 😄 Pronouns: Agusta A129 Mangusta
+
+- ⚡ Fun fact: I like to sleep and collect Plushies.
 -->
