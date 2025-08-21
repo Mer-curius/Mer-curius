@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a Video Gamer and an Average Stellar Blade Photography
+I am a Video Gamer and an Average Stellar Blade Photographer
 
 - 🔭 I’m currently working on beating many video games, such as Stellar Blade for the 6th time, No Man's Sky for the first time, even if there is no end, and some other games I do not know. I am also working on getting my Bachelor's Degree but I am already questioning, is my Future Job really worth it, at this state of the World.
 
