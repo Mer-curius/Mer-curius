@@ -13,7 +13,5 @@ I am a Video Gamer and an Average Stellar Blade Photographer
 
 - 📫 How to reach me: Gmail
 
-- 😄 Pronouns: Agusta A129 Mangusta
-
 - ⚡ Fun fact: I like to sleep and collect Plushies.
 -->
