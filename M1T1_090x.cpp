@@ -13,7 +13,7 @@ If it happens:
 */
 
 // magic words
-#include <lostream>
+#include <iostream>
 using namespace std;
 
 int main() {
