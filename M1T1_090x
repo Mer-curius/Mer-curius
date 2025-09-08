@@ -4,6 +4,12 @@ M1T1 for the online sections
 Timothy Copeland
 9/7/2025
 Program will greet the user.
+
+ERROR HANDLING WITH CODESPACES:
+If it happens:
+"stage changes" , no, push directly
+"commit and sync" , always
+"pull?" doesn't match
 */
 
 // magic words
