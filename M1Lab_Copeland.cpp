@@ -8,7 +8,7 @@ using namespace std;
 int main() {
 // This program will simulate an apple orchard.
 // The owner’s name
-string name = “Your Name”
+string name = “Jane Smith”
 // number of apples owned
 int apples = 100
 // price per apple
