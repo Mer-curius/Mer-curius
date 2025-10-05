@@ -35,7 +35,7 @@ int main() {
     double finalBalance = startingBalance + deposit - withdrawal;
 
     // Display results
-    cout << "\n=== Transaction Summary ===" << endl;
+    cout << "=== Transaction Summary ===" << endl;
     cout << "Account Holder: " << name << endl;
     cout << "Account Number: " << accountNumber << endl;
     cout.setf(ios::fixed);
