@@ -1,3 +1,9 @@
+/*
+CSC 134, M6T1
+Timothy Copeland
+12/4/2025
+*/
+
 #include <iostream>
 #include <string>
 #include <limits>  // for numeric_limits
